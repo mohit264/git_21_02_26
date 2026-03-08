@@ -1,1 +1,2 @@
 Understanding the git workflow/documentation
+git add command is interesting
